@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=8E44AD&center=true&lines=eu+sou+o+Márcio" alt="Texto pixelado: Márcio aqui" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=8E44AD&center=true&lines=+Márcio+aquiii" alt="Texto pixelado: Márcio aqui" />
 </p>
 
 ---
