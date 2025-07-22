@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=8E44AD&center=true&lines=Olá,+eu+sou+o+Márcio!+👋;Estudante+de+Programação;Java,+HTML,+CSS+e+Banco+de+Dados" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=8E44AD&center=true&lines=eu+sou+o+Márcio" alt="Texto pixelado: Márcio aqui" />
 </p>
 
 ---
@@ -14,5 +14,5 @@
 
 ### ✨ Sobre mim:
 - 📚 Focado nos estudos e sempre buscando aprender mais  
-- 🎯 Objetivo: ser um ótimo desenvolvedor  
-- ✨ "Código limpo, mente tranquila"
+- 🎯 Objetivo: Nem eu sei
+- ✨ "Mente lascada"
