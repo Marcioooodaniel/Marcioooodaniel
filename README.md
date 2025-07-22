@@ -1,4 +1,22 @@
-<h1 align="center">Márcio aqui! 👋</h1>
+<!-- Animação suave com estilo embutido -->
+<style>
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+h1.animated-title {
+  color: #8e44ad;
+  animation: slideIn 1s ease-out forwards;
+}
+</style>
+
+<h1 class="animated-title" align="center">Márcio aqui👋</h1>
 
 <p align="center">
   💻 Estudante de programação <br>
@@ -19,4 +37,4 @@
 ### ✨ Sobre mim:
 - 📚 Focado nos estudos e sempre buscando aprender mais
 - 🎯 Objetivo: ser um ótimo desenvolvedor
-- ✨ "Mente tranquila"
+- ✨ "Código limpo, mente tranquila"
