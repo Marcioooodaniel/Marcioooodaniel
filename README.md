@@ -18,11 +18,4 @@
 
 ### ✨ Sobre mim:
 - 📚 Focado nos estudos e sempre buscando aprender mais
-- 🎯 Objetivo: ser um ótimo desenvolvedor
-- ✨ "Código limpo, mente tranquila"
-
----
-
-### 📫 Como falar comigo:
-📧 SeuEmail@email.com  
-📱 [Instagram](https://instagram.com/seuusuario) • [LinkedIn](https://linkedin.com/in/seuusuario)
+- 🎯 Objetivo: Nem eu sei
