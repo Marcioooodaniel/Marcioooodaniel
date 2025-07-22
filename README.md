@@ -3,16 +3,12 @@
 </p>
 
 ---
-
 ### Eu uso:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-2965F1?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
 ---
-
 ### ✨ Sobre mim:
 - 📚 Focado nos estudos e sempre querendo dinheiro
-
 - 🎯 Objetivo: Viver apenas 
