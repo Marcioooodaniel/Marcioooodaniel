@@ -13,5 +13,6 @@
 ---
 
 ### ✨ Sobre mim:
-- 📚 Focado nos estudos e sempre buscando aprender mais  
+- 📚 Focado nos estudos e sempre querendo dinheiro
+
 - 🎯 Objetivo: Viver apenas 
